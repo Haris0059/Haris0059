@@ -1,5 +1,7 @@
 # 💫 About Me:
-My name is Haris. I’m 19 years old, currently living in Bosnia and Herzegovina.<br>Currently I’m studying at International Burch University.<br>I’m 1st year student of IT Department
+Hello there,<br>
+My name is Haris Skeledžija, and I’m a 19-year-old passionate about technology<br>
+I’m currently a first-year student at International Burch University, pursuing a degree in Information Technology. <br>
 
 
 ## 🌐 Socials:
