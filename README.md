@@ -1,12 +1,20 @@
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
+# Haris Skeledžija
+Software Engineering Student @ IBU · Java, Spring Boot, Python · [haris.rip](https://haris.rip)
 
+Building web apps, and tools since 2021. I've worked across freelance, SaaS, and open-source — including a Discord bot that hit **1M+ users** in its first month.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Haris0059&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Haris0059&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haris0059&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [News Web App](https://github.com/AnelBrcaninovic/News-Site) |Team project — news aggregation site with automated scraping; built Laravel backend and set up VPS infrastructure | PHP · Laravel · PostgreSQL · Redis
+| [IBU MCP Server](https://github.com/Haris0059/ibu-mcp) | MCP server for the IBU student portal — query grades, attendance, finances, and exams via Claude Code or Gemini CLI | TypeScript · Node.js
+| [PrismAI](https://github.com/Haris0059/prismai) | Android AI chat app with dual-backend: FastAPI proxy for multi-model routing + Kotlin backend | Kotlin · Jetpack Compose · FastAPI · PostgreSQL · Firebase |
+| [AutoVendor](https://github.com/Haris0059/autovendor) | Full-stack dashboard syncing WooCommerce products to OLX.ba listings automatically | Next.js · FastAPI · PHP · Python |
+| [Mini S3](https://github.com/Haris0059/MiniS3) | Lightweight AWS S3-inspired file storage service with REST API, metadata management, and tag-based search | Java 21 · Spring Boot · PostgreSQL · JUnit |
+| [Exam Scheduling & Room Allocation System](https://github.com/Haris0059/Exam-Scheduling-Room-Allocation-System) | Automated SPA replacing a manual university exam scheduling process with conflict-free room allocation | PHP · MySQL · JS · Bootstrap |
+| [Water Meter OCR](https://github.com/Haris0059/water-meter-ocr) | AI tool extracting handwritten meter readings from scanned PDFs into validated CSV files | Python · OpenAI Vision API |
+| [Kick Giveaway Extension](https://github.com/Haris0059/KickGiveawayExtension) | Browser extension for running keyword-based giveaways on Kick.com streams with real-time chat detection | JS · HTML · CSS |
+
